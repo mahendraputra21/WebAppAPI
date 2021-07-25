@@ -15,6 +15,6 @@ This repository contains the .NET Core Web MVC to consumming the API
 * Restore the NuGet packages by rebuilding the solution.
 * Run the project.
 
-nb : In this case we are call the api from this project https://github.com/mahendraputra21/WebApiCQRS
+note : In this case we are call the api from this project https://github.com/mahendraputra21/WebApiCQRS
 
 ![Screenshot](https://github.com/mahendraputra21/WebAppAPI/blob/main/Product-List.png)
